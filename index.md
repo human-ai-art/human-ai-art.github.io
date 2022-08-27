@@ -93,7 +93,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](http://human-ai.art/images/thecreation.png)
 
 ### Large image
 
