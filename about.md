@@ -6,11 +6,6 @@ description: About Us
 
 ## Human & AI
 
+Human-Ai Art is a collaboration of diverse artist who are leveraging artificial intelligence to take their skill to levels previously not possible.
 
 [back](./)
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
