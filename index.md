@@ -2,11 +2,12 @@
 layout: default
 ---
 
-# Examples of our Work
+# Humans-AI Art
 
+## Examples of our Work
 
-### Small image
+### Abstract Digital Art
 
 ![The Creation](http://human-ai.art/assets/images/thecreation.png)
 
-`The Creation.` - *Colin. 2022*
+`The Creation` - *Colin. 2022*
