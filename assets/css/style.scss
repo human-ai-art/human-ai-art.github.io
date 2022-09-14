@@ -2,3 +2,12 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+a {
+  color: #b52d4f;
+}
+
+a:hover {
+  background-color: #b52d4f;
+  color:white;
+}
